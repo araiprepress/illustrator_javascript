@@ -7,5 +7,5 @@ Mainly small tools for operators.
 Delete all text frames with no text characters or only space characters.
 
 ## deleteUnusedPasses.jsx
-Delete all pathitem which is not stroked, not filled, not wrapped AND not clipping.
+Delete all pathitems not stroked, not filled, not wrapped AND not clipping.
 
