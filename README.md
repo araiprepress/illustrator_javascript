@@ -11,3 +11,7 @@ Delete all pathitems not stroked, not filled, not wrapped AND not clipping.
 
 ### connectSeparatedTextFrames.jsx
 Concatenate textframes scattered apart. Connecting order is simply from left to right.
+
+## Note
+- We shall not be liable for any damages that may result from downloaded data.
+- We don't accept technical support such as instructing how to install/use software.
