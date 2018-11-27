@@ -1,6 +1,6 @@
-﻿// Concatenate textframes scattered apart.
+// Concatenate textframes scattered apart.
 // Connecting order is simply from left to right.
-// *asserted only vertical textframes;
+// *asserted only horizontal textframes;
 // Usage: Select textframes to concatenate.
 
 var selObj = app.activeDocument.selection;
