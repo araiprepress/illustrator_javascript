@@ -15,6 +15,9 @@ Concatenate textframes scattered apart. Connecting order is simply from left to 
 ### clippingPathFillandStroke.jsx
 Set clipping paths' fill and stroke to none, and copy the same path, not to change the preview
 
+### bezierParameters_simplest.jsx
+Select 1 path and write down the bezer parameters. Simplest script to get the bezier values.
+
 ## Note
 - We shall not be liable for any damages that may result from downloaded data.
 - We don't accept technical support such as instructing how to install/use software.
