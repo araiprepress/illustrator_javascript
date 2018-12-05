@@ -1,4 +1,5 @@
-﻿//Select 1 path and write down the bezer parameters
+//Select 1 pathitem and write down the bezer parameters 
+//both to the document and selected csv file
 function bezierParameters_simplest(){
 	var selObj = activeDocument.selection;
 	var str = "";
