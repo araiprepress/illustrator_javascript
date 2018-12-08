@@ -1,6 +1,6 @@
 # illustrator_javascript
 
-Javascript scripts for Adobe Illustrator (CS6-) CC.
+Javascript scripts for Adobe Illustrator (CS6-) CC (tested mainly in CC2015).
 Mainly small tools for operators.
 
 ### deleteEmptyTextFrames.jsx
@@ -13,10 +13,10 @@ Delete all pathitems not stroked, not filled, not wrapped AND not clipping.
 Concatenate textframes scattered apart. Connecting order is simply from left to right.
 
 ### clippingPathFillandStroke.jsx
-Set clipping paths' fill and stroke to none, and copy the same path, not to change the preview
+Set clipping paths' fill and stroke to none, and copy the same path, not to change the preview.
 
 ### bezierParameters_simplest.jsx
-Select 1 path and write down the bezer parameters. Simplest script to get the bezier values.
+Select 1 path and write down the bezier parameters. Simplest script to get the bezier values.
 
 ## Note
 - We shall not be liable for any damages that may result from downloaded data.
