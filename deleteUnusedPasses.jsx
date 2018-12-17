@@ -45,6 +45,3 @@ function checkCompoundPathItems(){
 	}
 
 }
-
-// alert(app.activeDocument.pathItems.length)
-alert(app.activeDocument.compoundPathItems[0].pathItems[0].filled)
