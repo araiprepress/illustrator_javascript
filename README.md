@@ -1,6 +1,6 @@
 # illustrator_javascript
 
-Javascript scripts for Adobe Illustrator (CS6-) CC (tested mainly in CC2015).
+Javascript tools for Adobe Illustrator (CS6-) CC (tested mainly in CC2015).
 Mainly small tools for operators to reduce their manual works.
 
 ### How to use:
@@ -25,7 +25,7 @@ Set clipping paths' fill and stroke to none, and copy the same path, not to chan
 Select 1 path and write down the bezier parameters. Simplest script to get the bezier values.
 
 
-#### License 
+### License 
 licensed under the MIT license.
 
 ### Note
