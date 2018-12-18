@@ -19,9 +19,11 @@ Delete all pathitems not stroked, not filled, not wrapped AND not clipping.
 
 ### connectSeparatedTextFrames.jsx
 Concatenate textframes scattered apart. Connecting order is simply from left to right.
+<img src="https://github.com/araiprepress/illustrator_javascript/blob/master/imgs/il_04.png" title="Connect Separated Text" width="450px">
 
 ### clippingPathFillandStroke.jsx
 Set clipping paths' fill and stroke to none, and copy the same path, not to change the preview.
+<img src="https://github.com/araiprepress/illustrator_javascript/blob/master/imgs/il_03.png" title="Clipping Path to no colors" width="450px">
 
 ### bezierParameters_simplest.jsx
 Select 1 path and write down the bezier parameters. Simplest script to get the bezier values.
