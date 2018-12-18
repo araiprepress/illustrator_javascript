@@ -9,6 +9,7 @@ if(app.documents.length==1){
 
 
 function separateStrokedClippingPath(){
+    layObj = activeDocument.layers.add();
 	pLen = app.activeDocument.pathItems.length;
 	for (i=0; i<pLen; i++){
 		var pObj = app.activeDocument.pathItems[i];
@@ -16,6 +17,7 @@ function separateStrokedClippingPath(){
 			if(pObj.stroked || pObj.filled){ 
 				_pObj = pObj.duplicate();
 				_pObj.clipping = false;
+                  _pObj.moveToBeginning(layObj);
 
 				pObj.stroked = false;
 				pObj.filled = false;
@@ -24,6 +26,7 @@ function separateStrokedClippingPath(){
 		}
 	}
 }
+
 }
 
 
