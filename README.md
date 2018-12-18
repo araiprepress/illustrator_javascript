@@ -29,9 +29,9 @@ Set clipping paths' fill and stroke to none, and copy the same path, not to chan
 Select 1 path and write down the bezier parameters. Simplest script to get the bezier values.
 
 
-### License 
+## License 
 licensed under the MIT license.
 
-### Note
+## Note
 - We shall not be liable for any damages that may result from downloaded data.
 - We don't accept technical support such as instructing how to install/use software.
